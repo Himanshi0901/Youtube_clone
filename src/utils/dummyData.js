@@ -3,7 +3,7 @@ export const dataInfo=[{
     imageIcon:'https://i.ytimg.com/vi/OPKpmCCyO-U/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBW0_HV1zj6SA50OP03hT4hZEP9Rw',
     video_url:"https://www.youtube.com/embed/OPKpmCCyO-U?si=G-BxVM2eoQ_msTdb",
     description:'Umbridge In The Forbidden Forest - Harry Potter And The Order Of The Phoenix',
-    owner:'Aman Singh',
+    owner:'Himanshi',
     views:'11.2M Views',
     time:'4 years ago',
     genre:'entertainment'
