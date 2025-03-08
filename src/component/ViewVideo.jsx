@@ -25,7 +25,7 @@ function ViewVideo(){
       fetchdata()
     },[])
     async function fetchdata(){
-      let response=await fetch('https://youtube-project-py16.onrender.com/');
+      let response=await fetch('https://youtube-clone-wpqu.onrender.com');
       let data=await response.json();
       console.log(data)
       setVideoDetails(data);
